@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning flutter and python
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me DM at https://www.facebook.com/profile.php?id=100041425190344
-- ⚡ Fun fact: A1
+- ⚡ Fun fact: A1 if u know , u know :)
 
 
